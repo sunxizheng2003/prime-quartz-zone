@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 孙熙正
+title: Sun Xi-Zheng
 
 # Name pronunciation (optional)
-name_pronunciation: Sun Xi-Zheng
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Xi-Zheng
 last_name: Sun
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: ''
 
 # Status emoji
 status:
@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: College of Urban and Environmental Sciences, Peking University
+    url: ''
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
