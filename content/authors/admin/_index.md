@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sun Xi-Zheng
+title: Sun<br>Xi-Zheng
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -27,7 +27,7 @@ role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: College of Urban and Environmental Sciences, Peking University
+  - name: College of Urban and Environmental Sciences<br>Peking University
     url: ''
 
 # Social network links
@@ -45,7 +45,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=alexjohnson
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0009-0008-7367-6227
 
 interests:
   - Large Language Models
