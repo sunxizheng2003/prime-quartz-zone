@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sun<br>Xi-Zheng
+title: Sun Xi-Zheng
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -27,7 +27,7 @@ role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: College of Urban and Environmental Sciences<br>Peking University
+  - name: College of Urban and Environmental Sciences, Peking University
     url: ''
 
 # Social network links
