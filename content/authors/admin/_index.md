@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: 孙熙正
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: Sun Xi-Zheng
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Xi-Zheng
+last_name: Sun
 
 # Pronouns (optional)
 pronouns: he/him
